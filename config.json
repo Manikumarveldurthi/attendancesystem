@@ -1,0 +1,24 @@
+{
+  "people": [
+    {
+      "name": "lokesh",
+      "image_path": "D:\\go\\lokesh.jpg",
+      "parent_number": "9014339890"
+    },
+    {
+      "name": "mani",
+      "image_path": "D:\\go\\mani.jpg",
+      "parent_number": "9014339890"
+    },
+    {
+      "name": "nazeera",
+      "image_path": "D:\\go\\naz.jpg",
+      "parent_number": "9121836168"
+    }
+   
+  ],
+  "on_duty_students": [
+    "manikumar",
+    "pranathi"
+  ]
+}
